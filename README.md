@@ -34,9 +34,13 @@ data/       - Raw and processed maintenance logs
 outputs/    - Generated summaries and structured results
 
 ## How to Run
-1. Install dependencies:
+
+```bash
+# Install dependencies
 pip install -r requirements.txt
 
-2. Run the app:
-streamlit run app/app.py
+# Create a .env file in the project root and add your OpenAI API key
+# OPENAI_API_KEY=your_api_key_here
 
+# Run the application
+streamlit run app/app.py
