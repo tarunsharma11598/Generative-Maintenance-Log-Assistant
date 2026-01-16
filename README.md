@@ -5,8 +5,8 @@ The goal is to explore how Generative AI and NLP techniques can be used to work 
 
 ## Project Motivation
 In many industries, maintenance logs are written in free-text format.  
-These logs are difficult to analyze, summarize, or reuse for reporting.  
-This project experiments with using AI to convert unstructured maintenance logs into structured summaries and useful insights.
+These logs are challenging to analyze, summarize, or reuse for reporting purposes.  
+This project explores the use of AI to convert unstructured maintenance logs into structured summaries and actionable insights.
 
 ## What This Project Does
 - Takes raw maintenance log data (CSV format)
@@ -24,8 +24,11 @@ This project experiments with using AI to convert unstructured maintenance logs 
 
 ## Folder Structure
 app/        - Streamlit application
+
 src/        - Core preprocessing and NLP logic
+
 data/       - Raw and processed maintenance logs 
+
 (Note: The dataset used is synthetically generated to mimic real maintenance logs and is intended for learning and demonstration purposes.)
 
 outputs/    - Generated summaries and structured results
