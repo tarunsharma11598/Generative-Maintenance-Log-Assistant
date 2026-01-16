@@ -1,0 +1,6 @@
+﻿,log_id,machine,actions,components,symptoms,status
+0,1,CNC-12,reset,,vibration,reset_done
+1,2,HYD-03,replaced,"oil, pump, seal","leakage, pressure, pressure low",
+2,3,CONV-02,adjusted,belt,misalignment,
+3,4,CNC-12,"cleaned, topped","coolant, coolant filter, filter","alarm, overheating",
+4,5,PR-07,lubricated,bearing,noise,monitor

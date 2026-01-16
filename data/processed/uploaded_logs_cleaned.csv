@@ -1,0 +1,6 @@
+log_id,date,machine,notes,notes_clean
+1,2025-01-05,CNC-12,Machine stopped suddenly. Operator reported vibration. Reset done.,machine stopped suddenly. operator reported vibration. reset done.
+2,2025-01-06,HYD-03,Hydraulic pressure low; oil leakage near pump. Replaced seal.,hydraulic pressure low; oil leakage near pump. replaced seal.
+3,2025-01-07,CONV-02,Belt misalignment observed. Adjusted tension and alignment.,belt misalignment observed. adjusted tension and alignment.
+4,2025-01-08,CNC-12,Overheating alarm. Cleaned coolant filter; topped up coolant.,overheating alarm. cleaned coolant filter; topped up coolant.
+5,2025-01-09,PR-07,Abnormal noise from bearing. Lubricated; monitor for 48 hours.,abnormal noise from bearing. lubricated; monitor for 48 hours.

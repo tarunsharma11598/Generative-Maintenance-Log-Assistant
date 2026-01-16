@@ -1,0 +1,5 @@
+{"log_id": 1, "machine": "CNC-12", "text": "machine stopped suddenly. operator reported vibration. reset done.", "extracted": {"actions": ["reset"], "components": [], "symptoms": ["vibration"], "status": ["reset_done"]}}
+{"log_id": 2, "machine": "HYD-03", "text": "hydraulic pressure low; oil leakage near pump. replaced seal.", "extracted": {"actions": ["replaced"], "components": ["oil", "pump", "seal"], "symptoms": ["leakage", "pressure", "pressure low"], "status": []}}
+{"log_id": 3, "machine": "CONV-02", "text": "belt misalignment observed. adjusted tension and alignment.", "extracted": {"actions": ["adjusted"], "components": ["belt"], "symptoms": ["misalignment"], "status": []}}
+{"log_id": 4, "machine": "CNC-12", "text": "overheating alarm. cleaned coolant filter; topped up coolant.", "extracted": {"actions": ["cleaned", "topped"], "components": ["coolant", "coolant filter", "filter"], "symptoms": ["alarm", "overheating"], "status": []}}
+{"log_id": 5, "machine": "PR-07", "text": "abnormal noise from bearing. lubricated; monitor for 48 hours.", "extracted": {"actions": ["lubricated"], "components": ["bearing"], "symptoms": ["noise"], "status": ["monitor"]}}
